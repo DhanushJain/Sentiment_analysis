@@ -1,7 +1,7 @@
 # Sentiment Analysis
 Headline scraping from given website and using that in sentiment analysis built using sequential nn model. 
 ## Run
-Dataset I have used for training in this model is from "Million News Headlines", the dataset is attached in the repo, feel free to download is from [kaggle](https://www.kaggle.com/datasets/therohk/million-headlines?resource=download).
+Dataset I have used for training in this model is from "Million News Headlines", the dataset was downloaded from [kaggle](https://www.kaggle.com/datasets/therohk/million-headlines?resource=download).
 I am using google colab to run my code, it can be downloaded and ran on notebook too.
 Make sure all the modules in requirements.txt is met, then you can run the code on your own.
 ## JSON file format
