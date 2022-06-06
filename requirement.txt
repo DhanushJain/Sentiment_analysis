@@ -1,0 +1,18 @@
+Code was ran on colab.
+
+make sure all the modules are installed via pip before running it in notebook.
+Pre install using pip
+snorkel
+textblob
+
+modules needed:
+BeautifulSoup
+requests 
+json
+pandas
+plotly
+snorkel
+re
+textblob
+numpy
+tensorflow
