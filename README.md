@@ -158,7 +158,7 @@ fig.update_layout(
 # showing the plot
 fig.show()
 ```
-[plot](./Sentiment plot.png)
+![./Sentiment plot.png](https://github.com/DhanushJain/Sentiment_analysis/blob/main/Sentiment%20plot.png))
 ## Why sequential NN model approach
 Sequential model is used when the input tensors is one and output tensors is one.  
 With the use of just machine learning algorithms, the parameters considered to perform the analysis and training is less.  
